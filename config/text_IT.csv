@@ -1,0 +1,19 @@
+# KEY, # VALUE
+ASK_FOR_SAVE_0, Vuoi salvare il file prima di aprirne un altro?
+ASK_FOR_SAVE_1, Salva file?
+EXECUTION_COMPLETED, Esecuzione completata.
+INSERT_CHARACTER_0, Inserisci un carattere:
+INSERT_CHARACTER_1, È stato scritto più di un carattere:
+INSERT_CHARACTER_2, Solo il primo carattere sarà aggiunto alla stack.
+INSERT_NUMBER, Inserisci un numero:
+INVALID_COMMAND_0, Comando non riconosciuto:
+INVALID_COMMAND_1, Nessuna azione è stata eseguita.
+MISSING_PARAMETER, Parametro mancante nel file di configurazione:
+PROGRAM_SAVED_TO, Programma salvato in:
+WRONG_FILE_EXTENSION_0, Estensione errata per il file:
+WRONG_FILE_EXTENSION_1, Richiesto un file .bf.
+WRONGLY_FORMATTED_COLOR_0, Stringa formattata erroneamente nel file di configurazione:
+WRONGLY_FORMATTED_COLOR_1, La stringa dovrebbe essere formattata come ROSSO_VERDE_BLU.
+WRONGLY_FORMATTED_COLOR_2, I valori di RGB dovrebbero essere compresi tra 0 e 255.
+WRONGLY_FORMATTED_FILE, File formattato erroneamente:
+WRONGLY_FORMATTED_NUMBER, La stringa in input non può essere convertita in un numero:

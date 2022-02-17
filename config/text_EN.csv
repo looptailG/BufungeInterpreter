@@ -1,0 +1,19 @@
+# KEY, # VALUE
+ASK_FOR_SAVE_0, Do you want to save the current file first?
+ASK_FOR_SAVE_1, Save file?
+EXECUTION_COMPLETED, Execution completed.
+INSERT_CHARACTER_0, Insert a character:
+INSERT_CHARACTER_1, More than one character was typed:
+INSERT_CHARACTER_2, Only the first character will be added to the stack.
+INSERT_NUMBER, Insert a number:
+INVALID_COMMAND_0, Invalid command:
+INVALID_COMMAND_1, No action was performed.
+MISSING_PARAMETER, Missing parameter in the configuration file:
+PROGRAM_SAVED_TO, Program saved to:
+WRONG_FILE_EXTENSION_0, Wrong file extension for the file:
+WRONG_FILE_EXTENSION_1, Expected a .bf file.
+WRONGLY_FORMATTED_COLOR_0, Wrongly formatted String in the configuration file:
+WRONGLY_FORMATTED_COLOR_1, Expected a String formatted as: RED_GREEN_BLUE.
+WRONGLY_FORMATTED_COLOR_2, The RGB values should be between 0 and 255.
+WRONGLY_FORMATTED_FILE, Wrongly formatted file:
+WRONGLY_FORMATTED_NUMBER, The input String cannot be converted into a number:
