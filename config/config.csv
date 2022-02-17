@@ -1,13 +1,13 @@
 # KEY, # VALUE, # DESCRIPTION
 EDITOR_APP_NAME, Befunge, "Editor Name of the Editor terminal window."
 INTERPRETER_APP_NAME, Befunge Interpreter, "Name of the Interpreter terminal window."
-WIDTH, 80
-HEIGHT, 25
-FOREGROUND_COLOR, 169_183_198
-BACKGROUND_COLOR, 43_43_43
-BREAKPOINT_COLOR, 199_84_80
-FONT_PATH, font/KreativeSquare.ttf
-FONT_SIZE, 16.0
+WIDTH, 80,
+HEIGHT, 25,
+FOREGROUND_COLOR, 169_183_198,
+BACKGROUND_COLOR, 43_43_43,
+BREAKPOINT_COLOR, 199_84_80,
+FONT_PATH, font/KreativeSquare.ttf,
+FONT_SIZE, 16.0,
 TEXT_FILE_PATH, config/text_, "Path to the text configuration file, without the language and the file extension."
 LANGUAGE, it, "Language suffix, to be concatenated to TEXT_FILE_PATH."
 EXTENDED_MODE, true, "Enables some extra commands, which aren't normally part of Befunge93."
