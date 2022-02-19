@@ -36,8 +36,8 @@ private fun loadParameters(filePath: String): Map<String, String> {
 		.readText()
 		.lines()
 	for (line in fileLines) {
-		// Skip comment lines.
-		if (line.startsWith("#")) continue
+		// Skip comment or empty lines.
+		if (line.startsWith("#") || (line == "")) continue
 
 		// Insert data in the map.
 		val lineData = line

@@ -9,6 +9,6 @@ BREAKPOINT_COLOR, 199_84_80,
 FONT_PATH, font/KreativeSquare.ttf,
 FONT_SIZE, 16.0,
 TEXT_FILE_PATH, config/text_, "Path to the text configuration file, without the language and the file extension."
-LANGUAGE, it, "Language suffix, to be concatenated to TEXT_FILE_PATH."
+LANGUAGE, en, "Language suffix, to be concatenated to TEXT_FILE_PATH."
 EXTENDED_MODE, true, "Enables some extra commands, which aren't normally part of Befunge93."
 STEP_TIME, 50, "Duration of a step in ms during automatic execution."
