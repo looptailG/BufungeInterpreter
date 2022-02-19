@@ -304,7 +304,8 @@ class BefungeEditor(inputFilePath: String = "") {
 						&& (filePath.substring(filePath.lastIndexOf(".")) == ".bf")
 					) {
 						// Open file.
-						BefungeEditor(filePath)
+						// todo: fare in modo che BefungeEditor implementi Runnable, o resta bloccato qui e la finestra vecchia non si chiude.
+						BefungeEditor(filePath).start()
 						isRunning = false
 					}
 					else if (filePath != "") {
